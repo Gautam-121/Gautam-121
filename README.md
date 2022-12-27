@@ -1,10 +1,12 @@
 ![image](https://user-images.githubusercontent.com/106535248/209624820-9af47870-0bd8-4bbc-9073-6285d6bd3a7f.png)
 
-Hi 👋, I'm Gautam Dhakate
+
+   Hi 👋, I'm Gautam Dhakate
 =
-A passionate backend developer from India
+   A passionate backend developer from India
 =
 
+![image](https://user-images.githubusercontent.com/106535248/209625303-e41cde22-d9be-4872-9fcb-2cd70ed070be.png)
 
 -🔭 I’m currently working on Open-To-Intern
 
