@@ -8,13 +8,13 @@
 
 ![image](https://user-images.githubusercontent.com/106535248/209625303-e41cde22-d9be-4872-9fcb-2cd70ed070be.png)
 
--🔭 I’m currently working on Open-To-Intern
+-🔭 I’m currently working on Backend Projects
 
--🌱 I’m currently learning node.js
+-🌱 I’m currently learning MERN stack
 
 -👯 I’m looking to collaborate on great companies
 
--💬 Ask me about HTML , CSS , MERN
+-💬 Ask me about JavaScript, NodeJS, MongoDB
 
 -📫 How to reach me gautamdhakate1234@gmail.com
 
@@ -25,8 +25,10 @@ Connect with me:
 
 www.linkedin.com/in/gautam-dhakate-818194238
 
-https://www.instagram.com/gautamdhakate/
+https://leetcode.com/Gautamdhakate/
+
+https://auth.geeksforgeeks.org/user/gautamdhas23a/
 
 Languages and Tools:
 =
-aws css3 express html5 javascript mongodb nodejs postman react
+arduino css3 git html5 javascript mongodb mysql nodejs postman redis
